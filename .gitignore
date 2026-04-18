@@ -3,3 +3,4 @@ api/node_modules/
 .env
 api/.env
 .DS_Store*.MOV
+.DS_Store
